@@ -2,7 +2,7 @@
 
 Characterizing the early-life gut microbiome using 16S data from the COPSAC2010 Cohort
 
-## Scripts
+## Bin
 
 This repository contains the R scripts nessecary to recreate plots in my masters thesis submited 21st of May 2024.
 
