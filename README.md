@@ -12,6 +12,7 @@ This repository contains the R scripts nessecary to recreate plots in my masters
 - tcgsa.R: A readable version of the orginal time-course gene set analysis script
 - assign.R: An alternative assignment algorthim
 - exposures.R: Chracterizes the impact of environmental factors
+- scoring.R: Score children based on their deviation and fluctuation compared to mean trajectories
 
 ## Data
 
