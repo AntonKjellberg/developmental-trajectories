@@ -18,9 +18,9 @@ This repository contains the R scripts nessecary to recreate plots in my masters
 The data is sensitive information and is not provided here, but it can be acquired through COPSAC.
 
 - dada2_gtdb_2021_11_18.RData: Output phyloseq from the dada2 pipeline. ASV matrix is counts
-- exposures.RData: Metadata on 5 key enviromental factors
+- exposures.RData: Sample metadata on key enviromental factors
 - dist_rarefaction_100_2020.RData: Bray Curtis distance matrix, output from beta.R
-- phy_assigned.RData: Abundance is mean relative abundance transformed, output from assign.R
+- phy_assigned.RData: Cleaned and assigned phyloseq. ASV matrix is counts. Output from assign.R
 
 ## Contact
 
