@@ -16,7 +16,7 @@ This repository contains the R scripts nessecary to recreate plots in my masters
 
 ## Data
 
-The data is sensitive information and is not provided here, but it can be acquired through COPSAC.
+The data is sensitive and not provided here, but it can be acquired through COPSAC.
 
 - dada2_gtdb_2021_11_18.RData: Output phyloseq from the dada2 pipeline. ASV matrix is counts
 - exposures.RData: Sample metadata on key enviromental factors
