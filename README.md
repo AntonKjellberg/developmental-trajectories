@@ -1,6 +1,6 @@
 # Developmental Trajectories
 
-Characterizing the early-life gut microbiome using 16S data from the COPSAC2010 Cohort
+Characterizing the development of the early-life gut microbiome using longitudonal 16S data from the COPSAC2010 Cohort
 
 ## Bin
 
